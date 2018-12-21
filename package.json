@@ -1,0 +1,23 @@
+{
+  "name": "coursera_fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrKPbIS/coursera_fullstack.git"
+  },
+  "author": "Andrey Strygin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrKPbIS/coursera_fullstack/issues"
+  },
+  "homepage": "https://github.com/mrKPbIS/coursera_fullstack#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
