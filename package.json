@@ -1,8 +1,7 @@
 {
   "name": "coursera_fullstack",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "main": "aboutus.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite"
@@ -19,5 +18,11 @@
   "homepage": "https://github.com/mrKPbIS/coursera_fullstack#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
+  },
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
   }
 }
